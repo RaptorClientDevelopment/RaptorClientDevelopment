@@ -8,4 +8,3 @@ current projects:
 
 - RaptorClient ~ 1.12.2 forge cheat for anarchy servers
 
-![Overview](https://raw.githubusercontent.com/RitomG/github-stats/master/generated/overview.svg) ![Top langs](https://raw.githubusercontent.com/RitomG/github-stats/master/generated/languages.svg)
