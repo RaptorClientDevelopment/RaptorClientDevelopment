@@ -1,4 +1,4 @@
-# I'm RitomG The Lader of RaptorClient Development
+# I'm RitomG The Leader of RaptorClient Development
 <img src="https://komarev.com/ghpvc/?username=RitomG&style=flat-square" alt="View Counter"/>
 <img src="https://komarev.com/ghpvc/?username=RaptorClientDevelopment&style=flat-square" alt="View Counter"/>
 
