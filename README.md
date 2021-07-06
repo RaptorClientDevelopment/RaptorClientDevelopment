@@ -9,4 +9,7 @@ current projects:
 - RaptorClient ~ 1.12.2 forge cheat for anarchy servers
 - Raptor ` 1.16.4 
 - MCP Raptor
-
+- 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RaptorClientDevelopment&theme=nord&margin-w=15&margin-h=15&column=7" />
+</p>
